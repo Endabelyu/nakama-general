@@ -81,7 +81,14 @@ Inspirations:
 {
   "id": "abc123",
   "name": "Ace Neclacke",
-  "price": 120000
+  "price": 120000,
+  "slug": "Ace-necklace",
+  "imageUrl": "http://image.com/ace-necklace",
+  "description": "Favourite necklace of Portgas D. Ace",
+  "category": "necklace",
+  "stock": 5,
+  "createdAt": "23-11-2023",
+  "updatedAt": "26-12-2023"
 }
 ```
 
@@ -92,7 +99,12 @@ Request Body:
 ```json
 {
   "name": "Ace Neclacke",
-  "price": 120000
+  "price": 120000,
+  "slug": "Ace-necklace",
+  "imageUrl": "http://image.com/ace-necklace",
+  "description": "Favourite necklace of Portgas D. Ace",
+  "category": "necklace",
+  "stock": 5
 }
 ```
 
@@ -100,8 +112,12 @@ Response Body:
 
 ```json
 {
-  "id": "abc123",
   "name": "Ace Neclacke",
-  "price": 120000
+  "price": 120000,
+  "slug": "Ace-necklace",
+  "imageUrl": "http://image.com/ace-necklace",
+  "description": "Favourite necklace of Portgas D. Ace",
+  "category": "necklace",
+  "stock": 5
 }
 ```
