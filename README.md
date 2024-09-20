@@ -63,9 +63,6 @@ Inspirations:
 
 ## REST API Endpoints
 
-- Production: `ASAP`
-- Local: `http://localhost:3000`
-
 | Endpoint         | HTTP     | Description               |
 | ---------------- | -------- | ------------------------- |
 | `/products`      | `GET`    | Get all products          |
