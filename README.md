@@ -22,7 +22,7 @@ Table of Contents:
 
 Inspirations:
 
-- <htthttps://onepiece.store/>
+- [Onepiece Store](https://onepiece.store/)
 
 ## Features
 
