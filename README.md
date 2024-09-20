@@ -59,7 +59,7 @@ Inspirations:
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](./diagrams/erd.svg)
+![ERD](./diagrams/Nakama.svg)
 
 ## REST API Endpoints
 
