@@ -13,8 +13,9 @@ Table of Contents:
 
 ## Links
 
-- Website/Frontend: <ASAP>
-  - Backend: <ASAP>
+- Website Live
+  - Frontend: <https://nakama.endabelyu.store/>
+  - Backend: <https://nakama-api.endabelyu.store/api>
 - Repositories:
   - General: <https://github.com/Endabelyu/nakama-general>
   - Nakama's Web: <https://github.com/Endabelyu/nakama-api>
