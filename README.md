@@ -1,6 +1,6 @@
 # Nakama'S
 
-[Nakama'S](https://amazingsafari.haidar.dev) Nakama's is an online store for one-piece products merchandise
+[Nakama'S](https://amazingsafari.haidar.dev) is an online store for one-piece products merchandise
 
 Table of Contents:
 
